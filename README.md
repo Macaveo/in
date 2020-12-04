@@ -1,5 +1,3 @@
-# in
-
 <!-- MVP.css quickstart template: https://github.com/andybrewer/mvp/ -->
 
 <link rel="stylesheet" href="https://unpkg.com/mvp.css">
