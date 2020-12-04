@@ -1,4 +1,3 @@
-# in
 <!-- MVP.css quickstart template: https://github.com/andybrewer/mvp/ -->
 
 <!DOCTYPE html>
